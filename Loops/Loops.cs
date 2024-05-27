@@ -11,7 +11,6 @@ namespace kvaernsletten
     {
         public void Run()
         {
-
             Oppgave1();
             Console.WriteLine(" ");
             Oppgave2();
@@ -35,7 +34,6 @@ namespace kvaernsletten
             {
                 Console.WriteLine(item);
             }
-
         }
 
         public void Oppgave3()
@@ -56,6 +54,5 @@ namespace kvaernsletten
                 }
             }
         }
-
     }
 }
